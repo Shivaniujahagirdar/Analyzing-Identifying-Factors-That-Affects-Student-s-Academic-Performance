@@ -1,0 +1,2 @@
+# Analyzing-Identifying-Factors-That-Affects-Student-s-Academic-Performance
+Teamed up in Designing and executing a processing program by utilizing and modelling dataset of 150 master’s students at  CSUSB on R-studio using various machine learning algorithm’s, data visualization and clustering, statistical computing, and  graphics, with a current baseline resulting accuracy value of about 93.6%. - Record project details such as task progress, to analyze performance, execute corrective measures, which improved performance of  the project by an average of 15%.
